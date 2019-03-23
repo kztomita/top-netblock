@@ -5,7 +5,7 @@
 WebサーバーにBot等からの大量のアクセスがあった際に、アクセス元を速やかに見つけたい時に使用できる。
 
 # 使い方
-python3 topnetblock.py < iplist.txt
+    python3 topnetblock.py < iplist.txt
 
 以下のようなIPv4アドレスの一覧を標準入力から渡す。
 
